@@ -18,4 +18,4 @@ You have millions of unique, non-standard items needed to provide a highly relev
 2. Kinesis Data stream and Managed Service for Apache Flink processes item details and user interaction data in real-time
 3. This data enriches search indexes and feeds machine learning models running on EKS
 4. The machine learning models are trained using Sagemaker AI
-4. When a user searches, the models provide personalized rankings, which are served in milliseconds.
+5. When a user searches, the models provide personalized rankings, which are served in milliseconds.
