@@ -1,4 +1,4 @@
-# Write differentiated product descriptions 
+# Write differentiated product descriptions
 
 ## Business challenge
 You’re a large e-commerce retailer that needs to create unique, high-quality, and SEO-friendly product descriptions for thousands of items at scale, reducing manual effort and avoiding duplicate content.
