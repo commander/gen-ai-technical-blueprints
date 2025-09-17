@@ -4,3 +4,4 @@
 3. [Make it easy for users to find and discover unique items on your online site](03_find_discover_unique_items_online_store.md)
 4. [Modernize in-store operations with AI](04_modernize_in-store_operations_with_ai.md)
 5. [Create an assistant for a better shopping experience](05_create_assistant_for_better_shopping_experience.md)
+6. [Write differentiated product descriptions](06_write_differentiated_product_descriptions.md)
