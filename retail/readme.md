@@ -6,3 +6,4 @@
 5. [Create an assistant for a better shopping experience](05_create_assistant_for_better_shopping_experience.md)
 6. [Write differentiated product descriptions](06_write_differentiated_product_descriptions.md)
 7. [Help users find your products using photos as a reference](07_find_products_using_photo.md)
+8. [Build a real-time product recommendation engine](08_real_time_product_recommendation_engine.md)
